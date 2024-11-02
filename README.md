@@ -183,9 +183,8 @@ b.	Masukkan query
     
 a.	Membuat data Mata Kuliah pada MS EXCEL yang terdiri dari 4 kolom yang berisi Kode Mata Kuliah, SKS, Nama Mata Kuliah dan Semester Ajar
 
-![image](https://github.com/user-attachments/assets/a0379aaf-cddf-4510-a557-fcf8713ad1df)
+![image](https://github.com/user-attachments/assets/b518b4a2-51a0-43ee-b726-0496d0ce1230)
 
- 
 b.	Simpan dalam format CSV (Comma Delimited)
 
 ![image](https://github.com/user-attachments/assets/b583a01f-317b-4fec-a0f5-dfdd977a1c0f)
@@ -586,11 +585,11 @@ j.	Mengisi code pada program bersih() yang berfungsi untuk memastikan bahwa sete
 
     c. Data berhasil dimasukkan
     
-   ![image](https://github.com/user-attachments/assets/ce55b90a-e3d6-43b0-a72f-a7a862b9622b)
+    ![image](https://github.com/user-attachments/assets/89ff8561-f566-4c5e-b3dc-6237af2b4adf)
 
     
 17.	Hasil eksekusi Exit
     
-   ![image](https://github.com/user-attachments/assets/621864c4-e68d-4c22-a564-254bba81bec1)
+   ![image](https://github.com/user-attachments/assets/fb5eb163-b650-4ee7-88c4-55fc45e7869e)
 
    ![image](https://github.com/user-attachments/assets/cfd77011-7c57-485e-b99a-5698b3054d3a)
