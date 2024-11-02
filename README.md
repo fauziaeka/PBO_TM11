@@ -181,9 +181,10 @@ b.	Masukkan query
 
 10.	Memasukkan data ke CSV
     
-a.	Membuat data Mata Kuliah yang terdiri dari 4 kolom yang berisi Kode Mata Kuliah, SKS, Nama Mata Kuliah dan Semester Ajar
+a.	Membuat data Mata Kuliah pada MS EXCEL yang terdiri dari 4 kolom yang berisi Kode Mata Kuliah, SKS, Nama Mata Kuliah dan Semester Ajar
 
-![image](https://github.com/user-attachments/assets/34339e3c-4cba-470b-aa13-2e19762edda9)
+![image](https://github.com/user-attachments/assets/a0379aaf-cddf-4510-a557-fcf8713ad1df)
+
  
 b.	Simpan dalam format CSV (Comma Delimited)
 
@@ -442,7 +443,7 @@ private void btnDeleteActionPerformed(java.awt.event.ActionEvent evt) {
         tampil();
     }          
 ```
-  h.	Mengisi code pada btnCetak yang berfungsi untuk mencetak file yang bisa disimpan ke dalam bentuk pdf 
+  h.	Mengisi code pada btnCetak yang berfungsi untuk mencetak file yang bisa disimpan ke dalam bentuk pdf
 ```
  private void btnCetakActionPerformed(java.awt.event.ActionEvent evt) {                                         
         // TODO add your handling code here:
@@ -585,11 +586,11 @@ j.	Mengisi code pada program bersih() yang berfungsi untuk memastikan bahwa sete
 
     c. Data berhasil dimasukkan
     
-    ![image](https://github.com/user-attachments/assets/26d0bd65-e69f-4661-bad8-fc2fbf1f6d8f)
+   ![image](https://github.com/user-attachments/assets/ce55b90a-e3d6-43b0-a72f-a7a862b9622b)
 
     
 17.	Hasil eksekusi Exit
     
-   ![image](https://github.com/user-attachments/assets/0d900513-e5fe-4ab4-a3c9-5895dc019324)
+   ![image](https://github.com/user-attachments/assets/621864c4-e68d-4c22-a564-254bba81bec1)
 
    ![image](https://github.com/user-attachments/assets/cfd77011-7c57-485e-b99a-5698b3054d3a)
